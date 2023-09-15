@@ -7,3 +7,4 @@ public class Amblance extends Car{
 	}
 
 }
+

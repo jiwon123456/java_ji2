@@ -12,3 +12,4 @@ public class Mem {
 	String pw;
 
 }
+

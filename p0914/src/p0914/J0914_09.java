@@ -9,6 +9,7 @@ public class J0914_09 {
 		//배열 5개 입력후,출력
 		//AttayList 5개 입력후 출력
 		
+		
 		Mem [] m = new Mem[5];
 		m[0] = new Mem("aaa","1111");
 		m[1] = new Mem("bbb","2222");

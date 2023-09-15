@@ -10,6 +10,7 @@ public class J0914_06 {
 		String id = "";
 		String pw = "";
 		
+		
 		//회원불러오기
 		MemberAll m = new MemberAll();
 		ArrayList list = m.memberRead(); //회원5명 생성됨.

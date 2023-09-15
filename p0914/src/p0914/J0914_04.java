@@ -8,6 +8,7 @@ public class J0914_04 {
 		System.out.printf("%s 잔액 : %d \n",b1.name,b1.money);
 		
 		
+		
 		b1.buy(new Tv()); //TV t
 		b1.buy(new Tv());
 		b1.buy(new Tv());

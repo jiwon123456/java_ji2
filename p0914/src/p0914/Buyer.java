@@ -20,6 +20,7 @@ public class Buyer {
 	//컬렉션 선언 프레임워크(여러 객체를 모아놓는 배열)
 	ArrayList list = new ArrayList();
 	
+	
 
 	int buy(Product p) {
 		//상품금액이 현재잔액보다 큰 경우
