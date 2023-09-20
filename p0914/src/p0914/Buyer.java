@@ -21,7 +21,7 @@ public class Buyer {
 	ArrayList list = new ArrayList();
 	
 	
-
+    //다형성(부모참조변수로 자손객체 받기)
 	int buy(Product p) {
 		//상품금액이 현재잔액보다 큰 경우
 		if(money<p.price) {

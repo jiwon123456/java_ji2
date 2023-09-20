@@ -8,9 +8,8 @@ public class StuScore {
 	}
 	
 	
-	public StuScore(int stuNO, String name, int kor, int eng, int math, int total, double avg) {
+	public StuScore(String name, int kor, int eng, int math, int total, double avg) {
 		super();
-		this.stuNO = stuNO;
 		this.name = name;
 		this.kor = kor;
 		this.eng = eng;
